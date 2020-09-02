@@ -1,0 +1,5 @@
+Given an integer array and number x, the task is to count pairs in array whose sum is less than x. 
+Not possible in n^2 time.
+
+ANSWER TIPS:
+1. Sort the array.
